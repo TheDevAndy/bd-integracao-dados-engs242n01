@@ -1,11 +1,11 @@
 # Equipes
 
-Lista dos trios, montada a partir dos forks (atualizada em 05/11/2026, 20h). Cada trio preenche o nome do time e os integrantes no README **do próprio fork**. Só **um integrante por trio** faz o fork; os outros entram como colaboradores.
+Lista das equipes (até 4 pessoas), montada a partir dos forks (atualizada em 05/11/2026, 20h05). Cada equipe preenche o nome do time e os integrantes no README **do próprio fork**. Só **um integrante por equipe** faz o fork; os outros entram como colaboradores.
 
 | Time | Integrantes (usuário do GitHub) | Fork |
 | --- | --- | --- |
 | Equipe Maromba | Jhonn Torres (jhonntorres1898), Calvin Vinícius (Calvinvns), Gustavo Brandão (gustavobrandao1929) | [jhonntorres1898/bd-integracao-dados-engs242n01](https://github.com/jhonntorres1898/bd-integracao-dados-engs242n01) |
-| a preencher | Daniel Marinho (Marinhodm), João Pedro Pereira, Luiz Gato, Gerson Fujimoto ⚠️ 4 nomes, o trabalho é em trio | [Marinhodm/bd-integracao-dados-engs242n01](https://github.com/Marinhodm/bd-integracao-dados-engs242n01) |
+| a preencher | Daniel Marinho (Marinhodm), João Pedro Pereira, Luiz Gato, Gerson Fujimoto | [Marinhodm/bd-integracao-dados-engs242n01](https://github.com/Marinhodm/bd-integracao-dados-engs242n01) |
 | a preencher | Vitor Davi (vitordavips) | [vitordavips/bd-integracao-dados-engs242n01](https://github.com/vitordavips/bd-integracao-dados-engs242n01) |
 | a preencher | wallessonvinhote (dono do fork) | [wallessonvinhote/bd-integracao-dados-engs242n01](https://github.com/wallessonvinhote/bd-integracao-dados-engs242n01) |
 | a preencher | matheusdev1 (dono do fork) | [matheusdev1/bd-integracao-dados-engs242n01](https://github.com/matheusdev1/bd-integracao-dados-engs242n01) |
