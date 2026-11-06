@@ -1,15 +1,17 @@
 # Equipes
 
-Lista das equipes (até 4 pessoas), montada a partir dos forks (atualizada em 05/11/2026, 20h05). Cada equipe preenche o nome do time e os integrantes no README **do próprio fork**. Só **um integrante por equipe** faz o fork; os outros entram como colaboradores.
+Lista das equipes (até 4 pessoas), montada a partir dos forks (atualizada em 05/11/2026, 20h10). Cada equipe preenche o nome do time e os integrantes no README **do próprio fork**. Só **um integrante por equipe** faz o fork; os outros entram como colaboradores.
 
 | Time | Integrantes (usuário do GitHub) | Fork |
 | --- | --- | --- |
 | Equipe Maromba | Jhonn Torres (jhonntorres1898), Calvin Vinícius (Calvinvns), Gustavo Brandão (gustavobrandao1929) | [jhonntorres1898/bd-integracao-dados-engs242n01](https://github.com/jhonntorres1898/bd-integracao-dados-engs242n01) |
 | a preencher | Daniel Marinho (Marinhodm), João Pedro Pereira, Luiz Gato, Gerson Fujimoto | [Marinhodm/bd-integracao-dados-engs242n01](https://github.com/Marinhodm/bd-integracao-dados-engs242n01) |
+| Seita do Aguinaldo | Diogo de Lucena Pereira (digolucna), Geovana Rogério Lima (Geovanarlx) | [DigoLucena/bd-integracao-dados-engs242n01](https://github.com/DigoLucena/bd-integracao-dados-engs242n01) |
+| a preencher | Tacio Vinicio (TVPRpontoDev), Jade Coimbra, Jackeline Alves (jackelinealves27) | [TVPRpontoDev/bd-integracao-dados-engs242n01](https://github.com/TVPRpontoDev/bd-integracao-dados-engs242n01) |
+| Casal | Wallesson Cesar (wallessonvinhote), Chrisllen Oliveira (ChrislenOlivia) | [wallessonvinhote/bd-integracao-dados-engs242n01](https://github.com/wallessonvinhote/bd-integracao-dados-engs242n01) |
+| For the Horde | Merivaldo Ferreira de Aquino Filho (MerivaldoFerreira) | [MerivaldoFerreira/bd-integracao-dados-engs242n01](https://github.com/MerivaldoFerreira/bd-integracao-dados-engs242n01) |
+| Antunes | João Victor Antunes da Silva (AntunesJoao) | [AntunesJoao/bd-integracao-dados-engs242n01](https://github.com/AntunesJoao/bd-integracao-dados-engs242n01) |
+| fragmentado | Matheus Cardoso (matheusdev1) | [matheusdev1/bd-integracao-dados-engs242n01](https://github.com/matheusdev1/bd-integracao-dados-engs242n01) |
 | a preencher | Vitor Davi (vitordavips) | [vitordavips/bd-integracao-dados-engs242n01](https://github.com/vitordavips/bd-integracao-dados-engs242n01) |
-| a preencher | wallessonvinhote (dono do fork) | [wallessonvinhote/bd-integracao-dados-engs242n01](https://github.com/wallessonvinhote/bd-integracao-dados-engs242n01) |
-| a preencher | matheusdev1 (dono do fork) | [matheusdev1/bd-integracao-dados-engs242n01](https://github.com/matheusdev1/bd-integracao-dados-engs242n01) |
-| a preencher | MerivaldoFerreira (dono do fork) | [MerivaldoFerreira/bd-integracao-dados-engs242n01](https://github.com/MerivaldoFerreira/bd-integracao-dados-engs242n01) |
-| a preencher | AntunesJoao (dono do fork) | [AntunesJoao/bd-integracao-dados-engs242n01](https://github.com/AntunesJoao/bd-integracao-dados-engs242n01) |
-| a preencher | TVPRpontoDev (dono do fork) | [TVPRpontoDev/bd-integracao-dados-engs242n01](https://github.com/TVPRpontoDev/bd-integracao-dados-engs242n01) |
 | a preencher | TheDevAndy (dono do fork) | [TheDevAndy/bd-integracao-dados-engs242n01](https://github.com/TheDevAndy/bd-integracao-dados-engs242n01) |
+| a preencher | angelotoledano (dono do fork) | [angelotoledano/bd-integracao-dados-engs242n01](https://github.com/angelotoledano/bd-integracao-dados-engs242n01) |
