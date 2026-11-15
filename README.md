@@ -6,13 +6,13 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+**Nome do time:** Triple-A
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Andreza | 2422333 | TheDevAndy |
+| Adalberto |  |  |
+| André |  |  |
 
 ## O cenário
 
