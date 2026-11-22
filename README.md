@@ -10,9 +10,9 @@
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-| Andreza | 2422333 | TheDevAndy |
-| Adalberto |  | agnpreto |
+| Adalberto | 2136074 | agnpreto |
 | André |  |  |
+| Andreza | 2422333 | TheDevAndy |
 
 ## O cenário
 
