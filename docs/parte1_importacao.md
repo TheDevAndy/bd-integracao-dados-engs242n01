@@ -74,12 +74,6 @@ O DDL foi executado e corrigido no software DBeaver. Após a correção as tabel
 | produtos_filial | Coluna filial_id está declarado NULL, mas faz  parte da PK | Coluna “filial_id” declarada como NOT NULL |
 | venda | O DEFAULT ‘’ permite gravar uma venda sem produto | Remover o DEFAULT da coluna |
 
-## Erros encontrados no script de importação e como foram corrigidos
-
-| Erro | Efeito | Correção |
-| --- | --- | --- |
-|  |  |  |
-
 ## Tratamentos aplicados aos dados
 
 - Fornecedor: id_fornecedor em pedido_compra ganhou o prefixo F e agora casa com a tabela de fornecedores (20 de 20 pedidos);
