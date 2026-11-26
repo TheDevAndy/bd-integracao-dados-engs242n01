@@ -1,6 +1,7 @@
 # Parte 1: Documentação do processo de importação
 
 ## Ferramenta utilizada
+
 O DDL foi executado e corrigido no software DBeaver. Após a correção as tabelas foram importadas uma por uma no formato cvs, sempre observando se o mapeamento estava sendo feito de forma correta em cada coluna. Dessa forma não foi necessário o script de importação disponibilizado pelo professor.
 
 ## Estrutura da planilha
