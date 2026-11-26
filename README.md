@@ -11,7 +11,7 @@
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
 | Adalberto | 2136074 | agnpreto |
-| André |  |  |
+| André |  | AndreSoft-lang |
 | Andreza | 2422333 | TheDevAndy |
 
 ## O cenário
